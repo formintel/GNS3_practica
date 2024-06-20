@@ -35,3 +35,9 @@ Plan de implementare al proiectului:
   - Concluzii
     - analizarea procesului de migrare a configuratiilor din Packet Tracer in GNS3
     - notarea provocarilor intampinate si solutiile aplicate
+
+
+
+# 20.06.2024
+Am reusit sa descarc un sw Cisco si sa il configurez astfel incat sa imi booteze. In continuare am facut o topologie de retea in care am reusit sa dau ping intre 
+pc-uri si switch, mai multe detalii am lasat in documentatia retelei.
