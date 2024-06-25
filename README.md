@@ -45,3 +45,6 @@ pc-uri si switch, mai multe detalii am lasat in documentatia retelei.
 # 21.06.2024
 Am dezvoltat reteaua anterioara(configurareSwVLAN) si am separat reteaua in vlan-uri. Am configurat corespunzator, dar nu am reusit sa ma conectez remote de la un pc la sw,
 deoarece vpcs-urile implicite de la GNS3 nu au functie de telnet sau ssh. Urmeaza a rezolva aceasta provocare.
+
+# 25.06.2024
+Am reusit sa imi conectez propriul laptop prin ssh la switch-urile din topologie. Am dezvoltat mai mult in documentatie.
