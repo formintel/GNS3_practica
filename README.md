@@ -48,3 +48,6 @@ deoarece vpcs-urile implicite de la GNS3 nu au functie de telnet sau ssh. Urmeaz
 
 # 25.06.2024
 Am reusit sa imi conectez propriul laptop prin ssh la switch-urile din topologie. Am dezvoltat mai mult in documentatie.
+
+# 26.06.2024
+Am reusit sa rezolv cerintele din examenul de la protocoale.
